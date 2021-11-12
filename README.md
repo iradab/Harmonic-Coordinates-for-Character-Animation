@@ -1,6 +1,6 @@
 # Harmonic-Coordinates-for-Character-Animation
 
-This project was a final project for INF 585 - Computer Animation (2020-2021) course at Ecole Polytechnique de Paris. This project is implementation of the paper by Pushkar Joshi - [Harmonic-Coordinates-for-Character-Animation](https://www.cs.jhu.edu/~misha/Fall07/Papers/Joshi07.pdf). 
+This project was a final project for INF 585 - Computer Animation (2020-2021) course at Ecole Polytechnique de Paris. This project is implementation of the paper by Pushkar Joshi - [Harmonic Coordinates for Character Animation](https://www.cs.jhu.edu/~misha/Fall07/Papers/Joshi07.pdf). 
 
 The details of our implementation are described in the [report](https://github.com/iradab/Harmonic-Coordinates-for-Character-Animation/blob/main/Harmonic_coordinates_report.pdf). 
 
